@@ -1,2 +1,3 @@
 # This is a comment
-print("Learning Python")
+print('Single quotes')
+print("Double quotes") 
