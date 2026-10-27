@@ -1,0 +1,7 @@
+# Q10. Write a program to check whether a year is a leap year.
+
+
+if year % 400 == 0 or (year % 4 == 0 and year % 100 != 0):
+    print("Leap year")
+else:
+    print("Not a leap year")
