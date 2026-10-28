@@ -8,5 +8,4 @@ else :
     while n> 0:
         count += 1
         n //= 10
-        print ("number of digits =",count)
-        
+        print ("number of digits=", count)
